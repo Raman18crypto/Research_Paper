@@ -10,5 +10,3 @@
   is nearly difficult for the people to fill this language gap by converting one language into another, but it can be accomplished through Machine Translation (MT). The primary goal of this paper is to translate Indian languages using
   neural networks translating Hindi into English and vice versa, with the help of a Neural Machine Translation (NMT) and sequence to sequence model with an encoder-decoder attention mechanism is put forth.
 </p>
-
-Refrence Link : https://ieeexplore.ieee.org/document/10531504
